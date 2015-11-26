@@ -1,0 +1,11 @@
+Trabalho de Recuperação de Informação
+
+Caros alunos, conforme discutido em sala, neste ano pediremos um trabalho diferente do que costumamos fazer em outros anos. Vocês devem formar grupos de dois ou três alunos e instalar um sistema de recuperação de informação baseado no pacote SOLR1, que por sua vez utiliza a biblioteca Apache Lucene.
+
+Além de instalar o sistema, deve-se configurá-lo e ajustá-lo de forma a indexar os aquivos internos a uma subárvore de diretório cuja raiz é previamente fornecida. Uma fonte importante de informação é o guia de referência (reference guide).
+
+O grupo deverá entregar um relatório descrevendo os procedimentos tomados pelo grupo e os resultados finais. Deve-se incluir os nomes dos pacotes de software que foram instalados e suas respectivas versões. Também devem ser entregues cópias dos arquivos de configuração. Deve-se tentar ajustar o sistema de recuperação de informação de forma a torná-lo o mais flexível e rico em recursos ao usuário, bem como apresentar no relatório os recursos disponíveis identificando os conceitos aprendidos na disciplina e presentes no livro-texto, a não ser pelo fato de que não é necessário configurar um sistema em cluster. O sistema configurado deverá ser também testado, e um sumário dos testes executados devem ser apresentados no relatório. Mais detalhes do que deverá ser entregue poderão ser oferecidos oportunamente.
+
+Bom trabalho a todos!
+
+Alair
